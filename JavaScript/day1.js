@@ -15,8 +15,7 @@ console.log(stipend)
 
 let name = "Ankit"
 let age = 23;
-let company = "Tribaze"
-let role = "Software Developer Intern"
+
 
 console.log("Name :"+name)
 console.log("Age :"+age)
@@ -24,9 +23,7 @@ console.log("Company :"+company)
 console.log("Role :"+role)
 
 
-let name = "Omkar";
-let age = 23;
-let company = "Tribaze";
+
 let salary = 5000;
 let isIntern = true;
 let phone = null;
@@ -66,7 +63,6 @@ console.log(a*b)
 console.log(a/b);
 
 
-let age = 23 
 
 console.log(age >18)
 
@@ -78,7 +74,6 @@ console.log(age == 23)
 
 console.log(age === 23)
 
-let age = 15;
 
 if(age >= 18){
     console.log("Eligible for voting");
